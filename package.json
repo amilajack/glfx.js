@@ -1,0 +1,22 @@
+{
+  "name": "glfx.js__temp",
+  "version": "1.0.0",
+  "description": "Adjust photos in your browser in realtime with glfx.js, an image effects library powered by WebGL. It uses your graphics card for image effects that would be impossible to apply in real-time with JavaScript alone.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilajack/glfx.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilajack/glfx.js/issues"
+  },
+  "homepage": "https://github.com/amilajack/glfx.js#readme"
+}

@@ -1,3 +1,30 @@
+node_modules/
+.idea/
+*.iml
+*.swp
+*.swo
+npm
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directory
+node_modules
+bower_components
+
+# OSX
+.DS_Store
+
+
 .DS_Store
 *.pyc
 /glfx.js
