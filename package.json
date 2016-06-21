@@ -1,6 +1,6 @@
 {
   "name": "glfx.js__temp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adjust photos in your browser in realtime with glfx.js, an image effects library powered by WebGL. It uses your graphics card for image effects that would be impossible to apply in real-time with JavaScript alone.",
   "main": "index.js",
   "directories": {
